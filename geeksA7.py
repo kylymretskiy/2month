@@ -133,7 +133,8 @@ CREATE TABLE employees (
 # insert_employee(db_name, ('Miranda Alistoun', 2500.55, 'Football', '1997-12-22', False))
 # insert_employee(db_name, ('Valeria Hillton', 2000, 'Football', '1977-10-28', True))
 # insert_employee(db_name, ('Jannet Miler', 2100.9, 'Programming', '1997-02-02', True))
-# insert_employee(db_name, ('William Tokenson', 1500, None, '1999-12-12', False))
+# insert_employee(db_name, ('William Tokens
+# on', 1500, None, '1999-12-12', False))
 # insert_employee(db_name, ('Shanty Morani', 1200.6, None, '1989-08-13', False))
 # insert_employee(db_name, ('Fiona Giordano', 900.12, 'Football', '1977-01-15', True))
 # delete_employee(db_name, 2)
